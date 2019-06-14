@@ -190,10 +190,10 @@ p.copyright { font-size: smaller }
 
 a img { border-width: 0; border-style: none }
 
-a:visited { color: navy }
-a:link { color: navy }
-a:hover { color: red; text-decoration: underline }
-a:active { color: red; text-decoration: underline }
+a:visited { color: MediumBlue }
+a:link { color: MediumBlue }
+a:hover { color: Crimson; text-decoration: underline }
+a:active { color: Crimson; text-decoration: underline }
 
 a {text-decoration: none}
 .navbar a:link {color: white}
