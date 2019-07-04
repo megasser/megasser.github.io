@@ -234,8 +234,8 @@ ul ul { list-style-type: disc; }
 ul ul ul { list-style-type: circle; }
 ul ul ul ul { list-style-type: disc; }
 li { font-size: 94%; margin-left: 0.5em; margin-top: 0.5em; }
-li li { font-size: 88%; font-style: normal }
-li li li { font-size: 80%; font-style: normal }
+li li { font-size: 80%; font-style: normal }
+li li li { font-size: 70%; font-style: normal }
 
 div dt
 {
@@ -331,8 +331,8 @@ ul ul { list-style-type: disc; }
 ul ul ul { list-style-type: circle; }
 ul ul ul ul { list-style-type: disc; }
 li { font-size: 94%; margin-left: 0.5em; margin-top: 0.5em; }
-li li { font-size: 88%; font-style: normal }
-li li li { font-size: 82%; font-style: normal }
+li li { font-size: 80%; font-style: normal }
+li li li { font-size: 70%; font-style: normal }
 
 
 ul li { 
@@ -353,14 +353,14 @@ ol li {
 }
 
 li li { 
-  font-size: 92%; 
+  font-size: 80%; 
   font-style: normal;
   list-style-type: disc;
   background: transparent;
   padding: 0 0 0 0;
 }
 li li li { 
-  font-size: 88%; 
+  font-size: 70%; 
   font-style: normal;
   list-style-type: circle;
   background: transparent;
