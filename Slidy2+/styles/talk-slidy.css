@@ -189,7 +189,7 @@ div.vbox {
   margin-top: -240px;
 }
 div.hbox {
-  width:60%;
+  width: 60%;
   margin-top: 0;
   margin-left:auto;
   margin-right:auto;
@@ -235,7 +235,7 @@ ul ul ul { list-style-type: circle; }
 ul ul ul ul { list-style-type: disc; }
 li { font-size: 94%; margin-left: 0.5em; margin-top: 0.5em; }
 li li { font-size: 80%; font-style: normal }
-li li li { font-size: 70%; font-style: normal }
+li li li { font-size: 75%; font-style: normal }
 
 div dt
 {
@@ -332,7 +332,7 @@ ul ul ul { list-style-type: circle; }
 ul ul ul ul { list-style-type: disc; }
 li { font-size: 94%; margin-left: 0.5em; margin-top: 0.5em; }
 li li { font-size: 80%; font-style: normal }
-li li li { font-size: 70%; font-style: normal }
+li li li { font-size: 75%; font-style: normal }
 
 
 ul li { 
@@ -360,7 +360,7 @@ li li {
   padding: 0 0 0 0;
 }
 li li li { 
-  font-size: 70%; 
+  font-size: 75%; 
   font-style: normal;
   list-style-type: circle;
   background: transparent;
